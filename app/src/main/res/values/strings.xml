@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProgmobKotlin</string>
+    <string name="halo_dunia">Halo Dunia</string>
+    <string name="title_activity_dutatani">Dutatani</string>
+    <string name="title_home">DUTATANI</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
